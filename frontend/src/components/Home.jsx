@@ -14,7 +14,7 @@ const Home = () => {
             widely used by stock analysts to inform trading and investment
             decisions.
           </p>
-          <Button text="Login" class="btn-info"/>
+          <Button text="Login" class="btn-info" url="/login"/>
         </div>
       </div>
     </>
